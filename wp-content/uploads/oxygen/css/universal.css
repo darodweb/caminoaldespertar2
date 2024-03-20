@@ -983,7 +983,7 @@ align-items:center;
 }
 
 .hero {
-background-image:linear-gradient(rgba(39,6,1,0.25), rgba(39,6,1,0.25)), url(https://darodweb.github.io/caminoaldespertar2/wp-content/uploads/2023/10/hero_3.webp);background-size:auto,  cover; height:100%;
+background-image:linear-gradient(rgba(39,6,1,0.25), rgba(39,6,1,0.25)), url(https://caminoaldespertar.com/wp-content/uploads/2023/10/hero_3.webp);background-size:auto,  cover; height:100%;
  width:100%;
  background-repeat:no-repeat;
  max-height:395px;
@@ -1832,7 +1832,7 @@ justify-content:center;
 }
 
 .ra-hero-container {
-background-image:linear-gradient(rgba(1,0,2,0.2), rgba(1,0,2,0.2)), url(https://darodweb.github.io/caminoaldespertar2/wp-content/uploads/2023/10/hero_2.webp); font-size:clamp(1.25rem, 0.39vw + 1.149rem, 1.5rem); ;
+background-image:linear-gradient(rgba(1,0,2,0.2), rgba(1,0,2,0.2)), url(https://caminoaldespertar.com/wp-content/uploads/2023/10/hero_2.webp); font-size:clamp(1.25rem, 0.39vw + 1.149rem, 1.5rem); ;
 }
 @media (max-width: 479px) {
 .ra-hero-container {
@@ -2779,7 +2779,7 @@ align-items:center;
  font-weight:700;
 }
 .home-hero {
-background-image:url(https://darodweb.github.io/caminoaldespertar2/wp-content/uploads/2023/12/mesh-bg2.webp);background-size: cover; padding-top:50px;
+background-image:url(https://caminoaldespertar.com/wp-content/uploads/2023/12/mesh-bg2.webp);background-size: cover; padding-top:50px;
  background-repeat:no-repeat;
  text-align:center;
  background-attachment:fixed;
